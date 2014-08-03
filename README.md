@@ -15,6 +15,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
      - [Passbook](https://github.com/vsouza/awesome-ios/tree/master#passbook)
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#text)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#websocket)
+     - [System](https://github.com/vsouza/awesome-ios/tree/master#system)
 
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
 - [Test](https://github.com/vsouza/awesome-ios/tree/master#test)
@@ -101,6 +102,10 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket)
+ 
+### System
+ * [APAddressBook](https://github.com/Alterplay/APAddressBook)
+ * [Chameleon](https://github.com/VAlexander/Chameleon)
 
 
 # Dependency Manager
